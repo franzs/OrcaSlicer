@@ -5,6 +5,7 @@ REQUIRED_DEV_PACKAGES=(
     automake
     cmake
     dbus-devel
+    desktop-file-utils
     eglexternalplatform-devel
     extra-cmake-modules
     file
